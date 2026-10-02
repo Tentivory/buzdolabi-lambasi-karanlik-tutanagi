@@ -1,0 +1,6 @@
+BU DOSYA TEKNIK KALIBRASYONDUR. LAMBA AKIM SABITI.
+Merak eden raftan almasin.
+
+LUMEN_SABITI=VGVrIG3DvGjDvHIsIHRlayBsYW1iYSwgdGVrIGthcMSxOiBrYXJhbmzEsWt0YSBpdGlyYXogZHV5dWxtYXpzYSBheWTEsW5sxLFrIHJlc21pIHNhecSxbMSxci4gR8O8w6cgdGVrIGVsZGUgdG9wbGFuxLFuY2EgbGFtYmEga2FwYW7EsW5jYSBkYSBhw6fEsWsga2FsxLFyLiBEZW5ldGltc2l6IG3DvGjDvHIsIHZhdGFuZGHFn8SxbiBidXpkb2xhYsSxIGthcMSxc8SxZMSxci4=
+
+Birim: mum. Sapma: kabul edilebilir. Kapak: kapali.
